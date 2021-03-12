@@ -30,27 +30,27 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - Kotlin
 - Perl
 - PHP
-    1. Laravel
-    2. Symfony
-    3. CodeIgniter
-    4. Zend Framework / Laminas Project
-    5. Yii (Framework)
-    6. CakePHP
-    7. Slim
-    8. Phalcon
-    9. FuelPHP
-    10. Fat-Free Framework
+    1. [Laravel](src/PHP/Laravel.md)
+    2. [Symfony](src/PHP/Symfony.md)
+    3. [CodeIgniter](src/PHP/CodeIgniter.md)
+    4. [Zend Framework / Laminas Project](src/PHP/Zend.md)
+    5. [Yii (Framework)](src/PHP/Yii.md)
+    6. [CakePHP](src/PHP/CakePHP.md)
+    7. [Slim](src/PHP/Slim.md)
+    8. [Phalcon](src/PHP/Phalcon.md)
+    9. [FuelPHP](src/PHP/FuelPHP.md)
+    10. [Fat-Free Framework](src/PHP/FFF.md)
 - Python
-    1. Django - An open-source full-stack framework. 
-    2. Flask - micro-framework.
-    3. Pyramid
-    4. Bottle - micro-framework, used for building APIs.
-    5. CherryPy
-    6. Web2py - full-stack framework for web, follows an MVC architecture. 
-    7. Falcon - micro-framework, used for building APIs.
-    8. FastAPI - micro-framework, very simple, similar to Flask. fastest frameworks used for building APIs with Python version 3.6+ to date.
-    9. Tornado
-    10. Dash - open-source asynchronous-framework, useful in creating highly interactive analytical web applications. 
+    1. [Django](src/Python/Django.md) - An open-source full-stack framework. 
+    2. [Flask](src/Python/Flask.md) - micro-framework.
+    3. [Pyramid](src/Python/Pyramid.md)
+    4. [Bottle](src/Python/Bottle.md) - micro-framework, used for building APIs.
+    5. [CherryPy](src/Python/CherryPy.md)
+    6. [Web2py](src/Python/Web2py.md) - full-stack framework for web, follows an MVC architecture. 
+    7. [Falcon](src/Python/Falcon.md) - micro-framework, used for building APIs.
+    8. [FastAPI](src/Python/FastAPI.md) - micro-framework, very simple, similar to Flask. fastest frameworks used for building APIs with Python version 3.6+ to date.
+    9. [Tornado](src/Python/Tornado.md)
+    10. [Dash](src/Python/Dash.md) - open-source asynchronous-framework, useful in creating highly interactive analytical web applications. 
 - Ruby
 - Rust
 - Swift
